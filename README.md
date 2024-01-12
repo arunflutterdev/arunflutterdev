@@ -1,4 +1,9 @@
+<div align="left">
+  <a href="#">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=60&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+Arun+;I'm+Flutter+Developer)](https://git.io/typing-svg)
+    
+  </a>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently fresher<br>🤝 I’m looking for a job<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
