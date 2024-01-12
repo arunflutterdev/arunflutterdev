@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Arun;I+am+Flutter+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently fresher<br>🤝 I’m looking for a job<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
 
